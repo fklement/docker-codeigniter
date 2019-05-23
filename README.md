@@ -55,6 +55,6 @@ In the root folder of this application you now can start up docker.
 $ docker-compose up
 ```
 
-### 5. Acces application
+### 5. Access the application
 
 The application now should be available via `http://localhost:8000`
